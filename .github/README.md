@@ -1,11 +1,6 @@
 # dotfiles
 
-My config dotfiles for development on Pop_OS and MacOS. WSL too, once I have set this up there.
-
-- *Terminal*: kitty
-- *Text Editor*: neovim / LazyVim
-- *Prompt*: starship
-- *Shell*: bash
+My dotfiles for development on Pop_OS and MacOS. WSL too, once I have set this up there.
 
 ## Installation
 
@@ -22,3 +17,4 @@ Next, clone this repository.
 git clone --bare git@github.com:rornic/.dotfiles.git $HOME/.dotfiles
 ```
 
+Done!
