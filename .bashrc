@@ -119,3 +119,4 @@ fi
 eval "$(starship init bash)"
 
 alias config="git --git-dir=$HOME/.dotfiles --work-tree=$HOME"
+alias icat="kitty +kitten icat"
