@@ -10,6 +10,7 @@ First, install the following requirements.
 - [Install Rust](https://www.rust-lang.org/tools/install)
 - [Install MesloLGL Nerd Font](https://www.nerdfonts.com/font-downloads)
 - [Install starship](https://starship.rs/guide/#%F0%9F%9A%80-installation)
+- [Install fzf](https://github.com/junegunn/fzf)
 - [Install neovim](https://github.com/neovim/neovim/wiki/Installing-Neovim)
 
 Next, clone and checkout this repository.
